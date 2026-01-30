@@ -39,7 +39,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,nodejs,express,mongodb,html,css,tailwind,git,github" />
-    <img src="https://skillicons.dev/icons?i=mysql,python,r,flask,excel" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,python,power bi,excel" /><br>
 </div>
 <br/>
 <hr/>
