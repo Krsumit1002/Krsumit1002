@@ -10,13 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Ui Desige**
+- 🔭 I’m currently focusing on **Software Development (MERN Stack)** and improving my **DSA skills**
  
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m learning **Advanced Backend Concepts**, **System Design basics**, and **React Native**
 
-- 💬 Ask me about **FullStack , Data Analyst**
+- 💬 Ask me about **Full Stack Development, SQL, Business & Data Analysis**
 
-- 📫 How to reach me **krsumit1002@gmail.com**
+- 📊 I enjoy turning raw data into meaningful insights using **SQL, Excel, and Power BI**
+
+- 📫 How to reach me: **krsumit1002@gmail.com**
 
 <!-- - ⚡ Fun fact **I am funny** -->
  <br/>
