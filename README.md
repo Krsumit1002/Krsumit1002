@@ -18,7 +18,7 @@
 
 - 📊 I enjoy turning raw data into meaningful insights using **SQL, Excel, and Power BI**
 
-- 📫 How to reach me: **krsumit1002@gmail.com**
+- 📫 How to reach me: **krsumit0304@gmail.com**
 
 <!-- - ⚡ Fun fact **I am funny** -->
  <br/>
