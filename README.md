@@ -65,30 +65,45 @@
 
 ## 📂 Featured Projects
 
-### 📊 Vendor Pricing & Cost Optimization Dashboard
+### 🏠 Real Estate Market Intelligence Pipeline
+- Built a data ingestion and cleaning workflow for property listing data.
+- Loaded structured data into BigQuery and used SQL for data quality checks and analysis.
+- **Tools:** Python, SQL, Google BigQuery
+- <h3>
+  📊 <a href="YOUR_GITHUB_REPO_URL">Vendor Pricing & Cost Optimization Dashboard</a>
+</h3>
+
+### 📊 Vendor Pricing & Cost Optimization Dashboard 
 - Analyzed vendor pricing and procurement data to support cost comparisons.
 - Developed Power BI visualizations to monitor pricing trends and procurement performance.
 - **Tools:** Excel, Power BI
+- <h3>
+  📊 <a href="YOUR_GITHUB_REPO_URL">Vendor Pricing & Cost Optimization Dashboard</a>
+</h3>
 
 ### 🛒 E-Commerce / Retail Sales Analysis
 - Explored sales performance, product trends, and business KPIs.
 - Used SQL and data analysis techniques to extract actionable insights.
 - **Tools:** SQL, Excel, Python / Power BI *(as applicable to the project)*
+- <h3>
+  📊 <a href="YOUR_GITHUB_REPO_URL">Vendor Pricing & Cost Optimization Dashboard</a>
+</h3>
 
 ### 👥 Customer Shopping Behaviour Analysis
 - Analyzed customer shopping data to explore purchasing patterns and customer behaviour.
 - Used data cleaning, SQL queries, and analytical techniques to identify trends.
 - **Tools:** Python, Pandas, MySQL
-
-### 🏠 Real Estate Market Intelligence Pipeline
-- Built a data ingestion and cleaning workflow for property listing data.
-- Loaded structured data into BigQuery and used SQL for data quality checks and analysis.
-- **Tools:** Python, SQL, Google BigQuery
+- <h3>
+  📊 <a href="YOUR_GITHUB_REPO_URL">Vendor Pricing & Cost Optimization Dashboard</a>
+</h3>
 
 ### 🍕 Pizza Sales SQL Analysis
 - Used SQL queries to analyze sales performance, product demand, and revenue-related metrics.
 - Practiced aggregation, grouping, filtering, and business KPI analysis.
 - **Tools:** SQL, MySQL
+- <h3>
+  📊 <a href="YOUR_GITHUB_REPO_URL">Vendor Pricing & Cost Optimization Dashboard</a>
+</h3>
 
 ---
 
