@@ -42,8 +42,8 @@
 ### Data Analytics & BI
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and MySQL"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Microsoft Excel" />
 </p>
 
 - **SQL:** Joins, subqueries, aggregations, CTEs, window functions
