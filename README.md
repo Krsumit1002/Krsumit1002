@@ -70,7 +70,7 @@
 - Loaded structured data into BigQuery and used SQL for data quality checks and analysis.
 - **Tools:** Python, SQL, Google BigQuery
 - <h3>
-  📊 <a href="YOUR_GITHUB_REPO_URL">Vendor Pricing & Cost Optimization Dashboard</a>
+  📊 <a href="https://github.com/Krsumit1002/Real-State-Market-Intelligence">Project Link</a>
 </h3>
 
 ### 📊 Vendor Pricing & Cost Optimization Dashboard 
@@ -78,7 +78,7 @@
 - Developed Power BI visualizations to monitor pricing trends and procurement performance.
 - **Tools:** Excel, Power BI
 - <h3>
-  📊 <a href="YOUR_GITHUB_REPO_URL">Vendor Pricing & Cost Optimization Dashboard</a>
+  📊 <a href="https://github.com/Krsumit1002/Vendor-Pricing-Cost-Optimization-Dashboard">Project Link</a>
 </h3>
 
 ### 🛒 E-Commerce / Retail Sales Analysis
@@ -86,7 +86,7 @@
 - Used SQL and data analysis techniques to extract actionable insights.
 - **Tools:** SQL, Excel, Python / Power BI *(as applicable to the project)*
 - <h3>
-  📊 <a href="YOUR_GITHUB_REPO_URL">Vendor Pricing & Cost Optimization Dashboard</a>
+  📊 <a href="https://github.com/Krsumit1002/Retail-Sales-Analysis">Project Link</a>
 </h3>
 
 ### 👥 Customer Shopping Behaviour Analysis
@@ -94,7 +94,7 @@
 - Used data cleaning, SQL queries, and analytical techniques to identify trends.
 - **Tools:** Python, Pandas, MySQL
 - <h3>
-  📊 <a href="YOUR_GITHUB_REPO_URL">Vendor Pricing & Cost Optimization Dashboard</a>
+  📊 <a href="https://github.com/Krsumit1002/e_commerce_sales_analysis">Project Link</a>
 </h3>
 
 ### 🍕 Pizza Sales SQL Analysis
@@ -102,7 +102,7 @@
 - Practiced aggregation, grouping, filtering, and business KPI analysis.
 - **Tools:** SQL, MySQL
 - <h3>
-  📊 <a href="YOUR_GITHUB_REPO_URL">Vendor Pricing & Cost Optimization Dashboard</a>
+  📊 <a href="https://github.com/Krsumit1002/pizza-sales-sql-analysis">Project Link</a>
 </h3>
 
 ---
