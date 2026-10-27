@@ -1,91 +1,123 @@
+
 <h1 align="center">
-  <a href="https://sumit-my-portfolio.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sumit+Kumar!;+Aspiring+Data+Analyst+%26+Developer!;" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=700&height=70&duration=3500&pause=1000&color=2F81F7&lines=Hi+There!+👋;I'm+Sumit+Kumar;Data+Analyst+%7C+BI+Enthusiast" />
 </h1>
 
 <h3 align="center">
-Passionate Data Analyst & Full Stack Developer from India
+  Data Analyst | Business Intelligence | SQL | Power BI | Excel
 </h3>
 
-<img align="right" alt="Data Analytics" width="400" 
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q0YjJmYzQ3N2I4N2Q5M2Y4N2M5Y2Q4Y2JmN2YzZTU1ZTY0YjQ5MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
-
-<p align="left"> 
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a> 
+<p align="center">
+  Turning raw data into meaningful insights and supporting better business decisions.
 </p>
 
-- 📊 I’m currently focusing on **Data Analytics, Business Intelligence, and Dashboard Development**
+<p align="center">
+  <a href="https://github.com/Krsumit1002">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sumit-kumar-693337214/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:krsumit0304@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-- 📈 Skilled in **Excel, SQL, Power BI, and Data Cleaning**
+---
 
-- 🌱 Learning **Advanced SQL, Python for Data Analysis, and Data Visualization**
+## 👨‍💻 About Me
 
-- 💡 Passionate about turning **raw data into meaningful business insights**
+- 📊 Focused on **Data Analytics, Business Intelligence, and Reporting**
+- 🧮 Skilled in **SQL, Excel, Power BI, and data cleaning**
+- 🐍 Working with **Python, Pandas, and NumPy** for data analysis
+- 📈 Interested in dashboard development, KPI tracking, and business performance analysis
+- 🏢 Experienced in MIS reporting, operational data management, and vendor pricing analysis
+- 🔍 Focused on data accuracy, process improvement, and actionable insights
+- 🌱 Continuously improving my skills in SQL, data visualization, and analytics
 
-- 🧠 Also experienced in **Full Stack Development (MERN Stack)**
+---
 
-- 💬 Ask me about **Data Analysis, Excel, SQL, Power BI, and Web Development**
+## 🛠️ Technical Skills
 
-- 🚀 Interested in solving real-world business problems using **data-driven decision making**
+### Data Analytics & BI
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and MySQL"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
 
-- 📫 How to reach me: **krsumit0304@gmail.com**
+- **SQL:** Joins, subqueries, aggregations, CTEs, window functions
+- **Excel:** PivotTables, lookup formulas, data validation, data cleaning
+- **Power BI:** Interactive dashboards, DAX fundamentals, data modeling
+- **Python:** Pandas, NumPy, data cleaning, exploratory data analysis
+- **Cloud Analytics:** Google BigQuery
+- **Reporting:** KPI monitoring, trend analysis, operational reporting
 
-<br/>
-<br/>
+### Development & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,git,github,vscode" alt="Development tools"/>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+- **Other experience:** MERN stack and web development fundamentals
+- **Tools:** MySQL Workbench, VS Code, Git, GitHub, BigQuery
 
-  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
-</div>
+---
 
-<hr/>
+## 📂 Featured Projects
 
-<h2 align="center">⚒️ Data Analytics & Development Tools ⚒️</h2>
+### 📊 Vendor Pricing & Cost Optimization Dashboard
+- Analyzed vendor pricing and procurement data to support cost comparisons.
+- Developed Power BI visualizations to monitor pricing trends and procurement performance.
+- **Tools:** Excel, Power BI
 
-<br/>
+### 🛒 E-Commerce / Retail Sales Analysis
+- Explored sales performance, product trends, and business KPIs.
+- Used SQL and data analysis techniques to extract actionable insights.
+- **Tools:** SQL, Excel, Python / Power BI *(as applicable to the project)*
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=excel,powerbi,mysql,python" />
-</div>
+### 👥 Customer Shopping Behaviour Analysis
+- Analyzed customer shopping data to explore purchasing patterns and customer behaviour.
+- Used data cleaning, SQL queries, and analytical techniques to identify trends.
+- **Tools:** Python, Pandas, MySQL
 
-<br/>
+### 🏠 Real Estate Market Intelligence Pipeline
+- Built a data ingestion and cleaning workflow for property listing data.
+- Loaded structured data into BigQuery and used SQL for data quality checks and analysis.
+- **Tools:** Python, SQL, Google BigQuery
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,html,css,tailwind,git,github" />
-</div>
+### 🍕 Pizza Sales SQL Analysis
+- Used SQL queries to analyze sales performance, product demand, and revenue-related metrics.
+- Practiced aggregation, grouping, filtering, and business KPI analysis.
+- **Tools:** SQL, MySQL
 
-<br/>
+---
 
-<hr/>
+## 🎯 Areas of Interest
 
-<h2 align="center">📌 Areas of Interest</h2>
+- Business Intelligence & Data Visualization
+- Data Cleaning & Quality Assurance
+- SQL Analytics & Query Optimization
+- KPI Reporting & Performance Monitoring
+- Customer & Sales Analytics
+- Operational and Procurement Analytics
+- Data-Driven Decision Making
 
-<div align="center">
+---
 
-📊 Data Analysis  
-📈 Dashboard Development  
-🧹 Data Cleaning & Transformation  
-📉 Business Intelligence  
-🗄️ SQL Query Optimization  
-🌐 Full Stack Web Development  
+## 📈 Currently Learning
 
-</div>
+- Advanced SQL and analytical problem-solving
+- Python for exploratory data analysis
+- Power BI data modeling and DAX
+- Business metrics and analytical storytelling
 
-<hr/>
+---
 
-<h2 align="center">📂 Featured Projects</h2>
+<p align="center">
+  <i>“Turning data into insights, and insights into action.”</i>
+</p>
 
-<div align="center">
-
-📊 Vendor Pricing Dashboard  
-📈 Customer Analysis Dashboard  
-💳 E-Commerce Sales Analysis 
-🎵 Pizza Sales SQL Analysis 
-
-</div>
+<p align="center">
+  📫 Connect with me on <a href="https://www.linkedin.com/in/sumit-kumar-693337214/">LinkedIn</a>
+  or email me at <a href="mailto:krsumit0304@gmail.com">krsumit0304@gmail.com</a>.
+</p>
