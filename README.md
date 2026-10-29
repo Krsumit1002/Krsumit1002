@@ -134,5 +134,5 @@
 
 <p align="center">
   📫 Connect with me on <a href="https://www.linkedin.com/in/sumit-kumar-693337214/">LinkedIn</a>
-  or email me at <a href="mailto:krsumit0304@gmail.com">krsumit0304@gmail.com</a>.
+  or email me at <a href="mailto:sumitkumarr.work@gmail.com">krsumit0304@gmail.com</a>.
 </p>
